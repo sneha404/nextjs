@@ -35,6 +35,17 @@ export default function page() {
         </div>
       </div>
 
+
+      <div className="sec2">
+        <div className="r2">
+          <div className='r2a'>
+            <div>SOLUTION COMPANY</div>
+            <div>WE DESIGN & CODE WEBSITE</div>
+            <div>OUR WORK</div>
+          </div>
+        </div>
+      </div>
+
     </>
   )
 }
